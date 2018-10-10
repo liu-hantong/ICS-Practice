@@ -1,0 +1,1 @@
+Some programming practice when taking ICS ( Introduction to Computer System ) class.
